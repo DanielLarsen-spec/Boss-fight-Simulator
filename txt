@@ -1,0 +1,19 @@
+Oppgave 2:
+Lag en liten possfight-simulator med knapper som gjør forskjellige angrep. Eks: Strong Attack. 
+Hver av dem skal kunne gjøre forskjellig mengde med skade (og bruke samme funksjon). 
+Livet til bossen skal gå ned for hver gang man trykker på en knapp. 
+Har han 0 eller mindre i helse, så skal spillet slutte og du skal få en "endgame"-skjerm / beskjed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
