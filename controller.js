@@ -4,7 +4,7 @@ function lasers(){
 
 
 
-
+endGame()
  updateView()   
 }
 
@@ -15,13 +15,13 @@ function missiles(){
 
 
 
-
+ endGame()   
  updateView()   
 }
 
 function endGame(){
-    if(bossHealth = 0){
-        
+    if(bossHealth == 0){
+        end = "You defeated Boba Fett";
     }
 
 
