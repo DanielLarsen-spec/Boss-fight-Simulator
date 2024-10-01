@@ -26,7 +26,14 @@ function endGame(){
         
     }
 }
+
+
+
+function shipSelect(){
     
-
-
-
+    
+    
+    
+    
+    
+}

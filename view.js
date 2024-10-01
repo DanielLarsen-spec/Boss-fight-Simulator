@@ -8,20 +8,22 @@ function updateView(){
     <div>Health: ${bossHealth}</div>
     <br>
     <br>
-    <img src="img/xwing 1.jfif">
+    <img src="${xWing}">
     <h2>${end}</h2>
     <button onclick="lasers()">lasers</button>
     <button onclick="missiles()">missiles</button>
-    
-    
-    
-    
-    
-    
-    
+    <br>
+    <br>
+    <h2>Ship selection</h2>
     
     `;
 }        
+    
+    
+    
+    
+    
+    
 
 
 
