@@ -20,13 +20,13 @@ function missiles(){
 }
 
 function endGame(){
-    if(bossHealth == 0){
+    if(bossHealth <= 0){
         end = "You defeated Boba Fett";
+        bossHealth = 0;   
+        
     }
-
-
-
 }
+    
 
 
 
